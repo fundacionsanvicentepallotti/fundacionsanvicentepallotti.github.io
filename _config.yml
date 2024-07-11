@@ -1,4 +1,4 @@
-a###########################################################
+###########################################################
 ### ¡Bienvenido al hermoso Jekyll!
 ### Este archivo de configuración está destinado a configuraciones que afectan a todo su sitio web. cuando tu por primera vez
 ### configura tu sitio web, debes revisar todas estas configuraciones y editarlas, pero después
@@ -42,7 +42,7 @@ round-avatar: false
 
 # Si desea tener un logotipo de imagen en la esquina superior izquierda en lugar de tener el título del sitio web,
 # luego especifica el siguiente parámetro
-title-img: "/assets/img/logo-fsvp-0048.png"
+title-img: "/assets/img/logo-fsvp-0049.png"
 
 #####################################
 # --- Footer social media links --- #
