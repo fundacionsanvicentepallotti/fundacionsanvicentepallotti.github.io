@@ -153,7 +153,7 @@ footer-hover-col: "#0085A1"
 # Alternativamente, la barra de navegación, el pie de página y el fondo de la página se pueden configurar en una imagen
 # en lugar de color
 
-navbar-img: "https://images.unsplash.com/photo-1627055823360-a1696736b029?q=80&w=2139&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+navbar-img: "https://images.unsplash.com/photo-1541256942802-7b29531f0df8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
