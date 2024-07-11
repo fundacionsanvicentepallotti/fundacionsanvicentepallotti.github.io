@@ -1,4 +1,4 @@
-###########################################################
+a###########################################################
 ### ¡Bienvenido al hermoso Jekyll!
 ### Este archivo de configuración está destinado a configuraciones que afectan a todo su sitio web. cuando tu por primera vez
 ### configura tu sitio web, debes revisar todas estas configuraciones y editarlas, pero después
@@ -21,7 +21,7 @@ author: SVP
 
 navbar-links:
   About Me: "Inicio"
-  Nosotros: "https://github.com/fundacionsanvicentepallotti/forty-jekyll-theme/edit/master/quienes-somos.md" 
+  Nosotros: "https://github.com/fundacionsanvicentepallotti/beautiful/quienes-somos.md" 
   Programas: "https://Programas.md"
   Donaciones: "Donaciones"
   Resources:
