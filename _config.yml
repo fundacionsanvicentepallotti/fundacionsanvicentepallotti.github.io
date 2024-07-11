@@ -20,8 +20,8 @@ author: SVP
 ###############################################
 
 navbar-links:
-  About Me: "index"
-  Nosotros: "quienes-somos" 
+  Inicio: "index"
+  Quienes Somos: "quienes-somos" 
   Programas: "programas"
   Donaciones: "donaciones"
 #  Resources:
