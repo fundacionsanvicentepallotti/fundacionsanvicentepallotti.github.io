@@ -22,11 +22,11 @@ author: SVP
 navbar-links:
   About Me: "index"
   Nosotros: "quienes-somos" 
-  Programas: "https://Programas.md"
-  Donaciones: "Donaciones"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Programas: "programas"
+  Donaciones: "donaciones"
+#  Resources:
+    #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+    #  - Learn markdown: "https://www.markdowntutorial.com/"
  #  Author's home: "https://deanattali.com"
 
 ################
