@@ -21,7 +21,7 @@ author: SVP
 
 navbar-links:
   About Me: "Inicio"
-  Nosotros: "https://site/quienes-somos.md" 
+  Nosotros: "https://github.com/fundacionsanvicentepallotti/forty-jekyll-theme/edit/master/quienes-somos.md" 
   Programas: "https://Programas.md"
   Donaciones: "Donaciones"
   Resources:
