@@ -20,8 +20,8 @@ author: SVP
 ###############################################
 
 navbar-links:
-  About Me: "Inicio"
-  Nosotros: "https://github.com/fundacionsanvicentepallotti/beautiful/quienes-somos.md" 
+  About Me: "index"
+  Nosotros: "quienes-somos" 
   Programas: "https://Programas.md"
   Donaciones: "Donaciones"
   Resources:
