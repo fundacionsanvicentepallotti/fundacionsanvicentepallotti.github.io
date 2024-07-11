@@ -102,41 +102,41 @@ share-links-active:
   linkedin: false
   vk: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
+# Cómo mostrar el enlace a su sitio web en el pie de página
+# Elimina esto si no quieres un enlace en el pie de página
 url-pretty: "MyWebsite.com"
 
-# Add the website title to the title of every page
-title-on-all-pages: true
+# Agregue el título del sitio web al título de cada página.
+title-on-all-pages: false
 
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+# Longitud de la palabra del extracto: trunca el extracto de cada publicación en la página del feed al número especificado de palabras.
 excerpt_length: 50
 
-# Whether or not to show an excerpt for every blog post in the feed page
+# Si mostrar o no un extracto de cada publicación del blog en la página del feed
 feed_show_excerpt: true
 
-# Whether or not to show a list of tags below each post preview in the feed page
+# Si mostrar o no una lista de etiquetas debajo de la vista previa de cada publicación en la página de alimentación
 feed_show_tags: true
 
-# Add a search button to the navbar
+# Agregar un botón de búsqueda a la barra de navegación
 post_search: true
 
-# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
+# Agregue un botón en el pie de página para editar la página actual. Solo funciona si tu sitio web está alojado en GitHub
 edit_page_button: true
 
-# Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
-# If this setting is off, then long sub-menu words might get cut off
-# See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
+# Permitir que los elementos del submenú (elementos del menú de navegación de segundo nivel) sean más largos que el menú de nivel superior
+# Si esta configuración está desactivada, es posible que se corten las palabras largas del submenú.
+# Consulte https://github.com/daattali/beautiful-jekyll/issues/765 para comprender el problema que esta configuración puede resolver
 navbar-var-length: false
 
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+# Las palabras clave para asociar con su sitio web, con fines de SEO
+#palabrasclave: "mi,lista,de,palabras clave"
 
 ######################################
 # --- Colours / background image --- #
 ######################################
 
-# Personalize the colours in your website. Colour values can be any valid CSS colour
+# Personalice los colores de su sitio web. Los valores de color pueden ser cualquier color CSS válido.
 
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -150,22 +150,22 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
+# Alternativamente, la barra de navegación, el pie de página y el fondo de la página se pueden configurar en una imagen
+# en lugar de color
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
-# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
+# Sugiera un color para que los navegadores móviles lo utilicen como tema del navegador. Esto sólo es compatible con unos pocos navegadores móviles.
 #mobile-theme-col: "#0085A1"
 
-# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
+# Para cualquier personalización visual adicional, puede incluir archivos CSS adicionales en cada página de su sitio. Enumere cualquier archivo CSS personalizado aquí
+#sitio-css:
 #  - "/assets/css/custom-styles.css"
 
-# If you have common JavaScript files that should be included in every page, list them here
-#site-js:
+# Si tiene archivos JavaScript comunes que deberían incluirse en cada página, enumerelos aquí
+#sitio-js:
 #  - "/assets/js/custom-script.js"
 
 #################################
@@ -251,14 +251,14 @@ footer-hover-col: "#0085A1"
 # --- Misc --- #
 ################
 
-# Ruby Date Format to show dates of posts
+# Formato de fecha Ruby para mostrar fechas de publicaciones
 date_format: "%B %-d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
 
 #################################################################################
-# --- You don't need to touch anything below here (but you can if you want) --- #
+# ---No necesitas tocar nada debajo aquí (pero puedes hacerlo si quieres) --- #
 #################################################################################
 
 # Output options (more information on Jekyll's site)
