@@ -1,9 +1,7 @@
 ---
-layout: post
-title: Quienes Somos.
-description: Reencender y propagar la Caridad entre todos los miembros del Pueblo de Dios
-image: assets/images/pic11.jpg
-nav-menu: true
+layout: page
+title: Quienes Somos
+subtitle: la Caridad entre todos los miembros del Pueblo de Dios
 ---
 
 
