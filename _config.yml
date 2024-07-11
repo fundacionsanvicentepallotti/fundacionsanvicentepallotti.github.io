@@ -21,8 +21,8 @@ author: SVP
 
 navbar-links:
   About Me: "Inicio"
-  Nosotros: "quienes-somos.md" 
-  Programas: "Programas"
+  Nosotros: "https://site/quienes-somos.md" 
+  Programas: "https://Programas.md"
   Donaciones: "Donaciones"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
