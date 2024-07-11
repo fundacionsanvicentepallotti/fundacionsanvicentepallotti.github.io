@@ -1,22 +1,22 @@
 ###########################################################
-### Welcome to Beautiful Jekyll!
-### This config file is meant for settings that affect your entire website. When you first
-### set up your website you should go through all these settings and edit them, but after
-### the initial set up you won't need to come back to this file often.
+### ¡Bienvenido al hermoso Jekyll!
+### Este archivo de configuración está destinado a configuraciones que afectan a todo su sitio web. cuando tu por primera vez
+### configura tu sitio web, debes revisar todas estas configuraciones y editarlas, pero después
+### la configuración inicial no necesitará volver a este archivo con frecuencia.
 ###########################################################
 
 ############################
-# --- Required options --- #
+# --- Opciones requeridas --- #
 ############################
 
 # Name of website
 #title: Fundacón San Vicente Pallotti
 
-# Your name to show in the footer
+# Tu nombre para mostrar en el pie de página
 author: SVP
 
 ###############################################
-# --- List of links in the navigation bar --- #
+# --- Lista de enlaces en la barra de navegación. --- #
 ###############################################
 
 navbar-links:
@@ -37,7 +37,7 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/logo-fsvp-.png"
 
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+# De forma predeterminada, la imagen se corta en un círculo. Puede desactivar este comportamiento configurando 'round-avatar: false'
 round-avatar: false
 
 # Si desea tener un logotipo de imagen en la esquina superior izquierda en lugar de tener el título del sitio web,
@@ -48,18 +48,20 @@ title-img: "/assets/img/logo-fsvp-0048.png"
 # --- Footer social media links --- #
 #####################################
 
-# Select the social network links that you want to show in the footer.
-# You can change the order that they show up on the page by changing the order here.
-# Uncomment the links you want to show and add your information to each one.
+# Seleccione los enlaces de redes sociales que desea mostrar en el pie de página.
+# Puede cambiar el orden en que aparecen en la página cambiando el orden aquí.
+# Descomenta los enlaces que deseas mostrar y agrega tu información a cada uno.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  instagram: deanat78
   facebook: deanattali
-  github: daattali
   twitter: daattali
-  patreon: DeanAttali
   youtube: "@daattali"
-  whatsapp: 15551212
+#  patreon: DeanAttali
+#  github: daattali
+#  whatsapp: 15551212
+
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -87,7 +89,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -97,7 +99,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
