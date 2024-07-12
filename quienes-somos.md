@@ -37,7 +37,7 @@ title: Quienes Somos
 <div class="container text-center">
   <div class="row g-2">
     <div class="col-6">
-      <div class="p-3">Custom column padding
+      <div class="p-3">
       
       
    <h3>NUTRICIÓN</h3>
@@ -46,7 +46,7 @@ title: Quienes Somos
       </div>
     </div>
     <div class="col-6">
-      <div class="p-3">Custom column padding
+      <div class="p-3">
       
       
 <h3>SALUD</h3>
@@ -56,7 +56,7 @@ title: Quienes Somos
       </div>
     </div>
     <div class="col-6">
-      <div class="p-3">Custom column padding<
+      <div class="p-3">
       
       
       
@@ -68,7 +68,7 @@ title: Quienes Somos
       /div>
     </div>
     <div class="col-6">
-      <div class="p-3">Custom column padding
+      <div class="p-3">
       
       
       
