@@ -3,14 +3,14 @@ layout: page
 title: Quienes Somos
 subtitle: la Caridad entre todos los miembros del Pueblo de Dios
 ---
-![Crepe](/assets/img/crepe.jpg)
+
 ![directiva](/assets/img/directiva.jpg)
 <section id="one">
 	<div class="inner">
 <header class="major"><h1>Quienes Somos.</h1></header>
 		
 
-
+![Crepe](/assets/img/crepe.jpg)
 <div class="row">
 	
 <div class="6u 12u$(small)">
