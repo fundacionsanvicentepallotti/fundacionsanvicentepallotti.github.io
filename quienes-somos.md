@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Quienes Somos
-subtitle: la Caridad entre todos los miembros del Pueblo de Dios
 ---
 
 ![directiva](/assets/img/directiva.jpg)
-
+<!--<h1>Quienes Somos.</h1>-->
 
 <div class="container text-center">
   <div class="row">
@@ -20,19 +19,22 @@ subtitle: la Caridad entre todos los miembros del Pueblo de Dios
   </div>
   <div class="row">
     <div class="col">
-      1 of 3
+      1 of 4
     </div>
     <div class="col">
-      2 of 3
+      2 of 4
     </div>
     <div class="col">
-      3 of 3
+      3 of 4
+    </div>
+    <div class="col">
+      4 of 4
     </div>
   </div>
 </div>
 
 
-<header class="major"><h1>Quienes Somos.</h1></header>
+
 
 <div class="row">
 <div class="4u 12u$(medium)">
