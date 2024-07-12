@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quienes Somos
+title: Programas
 subtitle: la Caridad entre todos los miembros del Pueblo de Dios
 ---
 
