@@ -9,7 +9,7 @@ subtitle: la Caridad entre todos los miembros del Pueblo de Dios
 	<div class="inner">
 <header class="major"><h1>Quienes Somos.</h1></header>
 		
-![Crepe](/assets/img/directiva.jpg)
+![directiva](/assets/img/directiva.jpg)
 
 <div class="row">
 	
