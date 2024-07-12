@@ -10,10 +10,14 @@ subtitle: la Caridad entre todos los miembros del Pueblo de Dios
 <div class="container text-center">
   <div class="row">
     <div class="col">
-      1 of 2
+      <h3>MISIÓN</h3>
+<p>Reencender y propagar la Caridad entre todos los miembros del Pueblo de Dios, proclamando el Evangelio, mediante palabra y obra, atendiendo a todos los necesitados de hambre espiritual y corporal. Utilizando todos los recursos y herramientas posibles, desde el contacto personal hasta los medios electrónicos.</p>
+</div>
     </div>
     <div class="col">
-      2 of 2
+      <h3>VISIÓN</h3>
+<p>Alcanzar todos los lugares donde se encuentren personas en condicion vulnerable, movidos por la intención de reavivar la fe, la unión y la caridad entre todos los miembros del Pueblo de Dios, encaminado a ser una sola familia con un mismo ideal.</p>
+</div>
     </div>
   </div>
   <div class="row">
@@ -31,22 +35,7 @@ subtitle: la Caridad entre todos los miembros del Pueblo de Dios
 
 
 <header class="major"><h1>Quienes Somos.</h1></header>
-		
-<div class="row">
-	
-<div class="6u 12u$(small)">
-<h3>MISIÓN</h3>
-<p>Reencender y propagar la Caridad entre todos los miembros del Pueblo de Dios, proclamando el Evangelio, mediante palabra y obra, atendiendo a todos los necesitados de hambre espiritual y corporal. Utilizando todos los recursos y herramientas posibles, desde el contacto personal hasta los medios electrónicos.</p>
-</div>
-	
-<div class="6u$ 12u$(small)">
-<h3>VISIÓN</h3>
-<p>Alcanzar todos los lugares donde se encuentren personas en condicion vulnerable, movidos por la intención de reavivar la fe, la unión y la caridad entre todos los miembros del Pueblo de Dios, encaminado a ser una sola familia con un mismo ideal.</p>
-</div>
 
-</div><!--/row-->
- 
-<!-- Break -->
 <div class="row">
 <div class="4u 12u$(medium)">
 <h3>NUTRICIÓN</h3>
