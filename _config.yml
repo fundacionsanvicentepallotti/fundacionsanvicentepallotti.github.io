@@ -35,7 +35,7 @@ navbar-links:
 
 # Imagen para mostrar en la barra de navegación: funciona mejor con una imagen cuadrada
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/logo-fsvp-0049.png"
+avatar: "/assets/img/logo-fsvp-0050.png"
 
 # De forma predeterminada, la imagen se corta en un círculo. Puede desactivar este comportamiento configurando 'round-avatar: false'
 round-avatar: false
