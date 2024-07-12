@@ -8,6 +8,8 @@ subtitle: la Caridad entre todos los miembros del Pueblo de Dios
 <section id="one">
 	<div class="inner">
 <header class="major"><h1>Quienes Somos.</h1></header>
+		
+![Crepe](/assets/img/crepe.jpg)
 
 <div class="row">
 	
