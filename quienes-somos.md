@@ -65,7 +65,7 @@ title: Quienes Somos
       
       
       
-      /div>
+      </div>
     </div>
     <div class="col-6">
       <div class="p-3">
