@@ -20,6 +20,22 @@ title: Quienes Somos
 </div>
 
 
+
+<div class="card text-bg-primary mb-3" style="max-width: 18rem;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div class="card text-bg-info mb-3" style="max-width: 18rem;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+
+
+
 <div class="container text-center">
   <div class="row g-2">
     <div class="col-6">
@@ -70,6 +86,7 @@ title: Quienes Somos
   </div>
 </div>
 
+<p class="h4">h4. Bootstrap heading</p>
 
 <h3>Unión del Apostolado Católico</h3>
 <p>La Unión del Apostolado Católico es un grupo de Sacerdotes y Laicos con la misión de reavivar la fe, llevando a todo los a la unidad en Cristo a través del ejemplo de su Padre fundador San Vicente Pallotti.</p>
