@@ -3,8 +3,6 @@ layout: page
 title: Donaciones
 ---
 
-## DONACIONES
-
 <!-------------dos------------->
 <div class="6u$ 12u$(small)">
   <h3>Datos Bancarios</h3>
