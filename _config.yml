@@ -23,7 +23,7 @@ navbar-links:
   Inicio: "index"
   Quienes Somos: "quienes-somos" 
   Programas: "programas"
-  Galerias: "https://fundacionsanvicentepallotti.github.io/map/"
+  Galerias: "https://fundacionsanvicentepallotti.github.io/embed-video/"
   Donaciones: "donaciones"
 #  Resources:
     #  - Beautiful Jekyll: "https://beautifuljekyll.com"
