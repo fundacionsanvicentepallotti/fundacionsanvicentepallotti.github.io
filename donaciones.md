@@ -4,7 +4,7 @@ title: Donaciones
 subtitle: la Caridad entre todos los miembros del Pueblo de Dios
 ---
 
-# DONACIONES
+## DONACIONES
 
 <!-------------dos------------->
 <div class="6u$ 12u$(small)">
