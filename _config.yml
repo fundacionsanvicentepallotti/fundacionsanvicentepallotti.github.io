@@ -23,6 +23,7 @@ navbar-links:
   Inicio: "index"
   Quienes Somos: "quienes-somos" 
   Programas: "programas"
+  Galerias: "https://deanattali.com"
   Donaciones: "donaciones"
 #  Resources:
     #  - Beautiful Jekyll: "https://beautifuljekyll.com"
