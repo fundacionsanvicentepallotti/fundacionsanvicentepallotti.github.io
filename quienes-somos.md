@@ -69,7 +69,6 @@ title: Quienes Somos
   </div>
 </div>
 
-<p class="h4">h4. Bootstrap heading</p>
 
 <h3>Unión del Apostolado Católico</h3>
 <p>La Unión del Apostolado Católico es un grupo de Sacerdotes y Laicos con la misión de reavivar la fe, llevando a todo los a la unidad en Cristo a través del ejemplo de su Padre fundador San Vicente Pallotti.</p>
