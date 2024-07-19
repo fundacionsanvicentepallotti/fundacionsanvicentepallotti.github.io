@@ -5,8 +5,8 @@ subtitle: Damos gracias a Dios por la exitosa culminación del proyecto del Come
 cover-img: /assets/img/bg-azule.jpg
 thumbnail-img: /assets/img/cierre-01.jpg
 share-img: /assets/img/cierre-01.jpg
-tags: [comedor, nutrición]
-author: SVP
+tags: # [comedor, nutrición]
+author: # SVP
 ---
 ![comedor](../assets/img/pic12.jpg)
 <br>
