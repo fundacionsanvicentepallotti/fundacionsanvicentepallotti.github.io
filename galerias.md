@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Donaciones
-subtitle: la Caridad entre todos los miembros del Pueblo de Dios
+title: Galerias
 ---
 Nutrición.
 Programa de Nutrición Consiste en la entrega de alimentos no perecederos para familias en situación de riesgo, primordialmente con niños y con personas de tercera edad, que viven en la comunidad de El Carmen, Nueva Casarapa y La Villa Panamericana en Guarenas, estado Miranda.
