@@ -13,8 +13,8 @@ subtitle: la Caridad entre todos los miembros del Pueblo de Dios
       <li>Fundación San Vicente Pallotti</li>
       <li>RIF: J-50180608-0</li>
       <li>Cuenta Bancamiga</li>
-      <li><h4>N° 0172-0194-86-1945023032</h4></li>
       </ul>
+      <h4>N° 0172-0194-86-1945023032</h4>
   </div>
 <hr class="major">
 <!-- Break -->
