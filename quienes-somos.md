@@ -19,7 +19,7 @@ title: Quienes Somos
   </div>
 </div>
 
-<div class="container text-center">
+<div class="container text-left">
   <div class="row g-2">
     <div class="col-6">
       <div class="p-3">
