@@ -14,4 +14,3 @@ tags: [Abuelos, Comedor]
 > ¡Contamos con sus oraciones!
 > La caridad de Cristo nos impulsa 🙌
 
-</div>
