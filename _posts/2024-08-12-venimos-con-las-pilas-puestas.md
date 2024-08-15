@@ -13,3 +13,12 @@ tags: [Abuelos, Comedor]
 
 > ¡Contamos con sus oraciones!
 > La caridad de Cristo nos impulsa 🙌
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/X9PhXlYalk4{{ include.id }}"
+      width="420"
+      height="288"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
