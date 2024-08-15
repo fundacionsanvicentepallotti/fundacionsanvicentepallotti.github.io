@@ -5,7 +5,7 @@ subtitle: Listos para dar todo lo mejor a los niños y abuelos que recibiremos e
 thumbnail-img: /assets/img/con-las-pilas-puestas.jpg
 tags: [Abuelos, Comedor]
 ---
-¡Venimos con las pilas puestas! 🔋🔋🔋
+## ¡Venimos con las pilas puestas! 🔋🔋🔋
 ![Jornada](https://fundacionsanvicentepallotti.github.io/assets/img/pic16.jpg)<br>
 ![Jornada](https://fundacionsanvicentepallotti.github.io/assets/img/pic17.jpg)<br>
 
