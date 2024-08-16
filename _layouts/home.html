@@ -2,6 +2,7 @@
 layout: page
 ---
 <img src="https://fundacionsanvicentepallotti.github.io/assets/img/baner-entrada-04.jpg" alt="baner FSVP"><br><br>
+<!-- ideonapi -->
 <div class="container text-center">
   <div class="row align-items-start">
     <div class="col">
@@ -15,6 +16,7 @@ layout: page
     </div>
   </div>
 </div><br><br>
+<!-- ideonapi -->
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
@@ -135,8 +137,26 @@ layout: page
 {% endif %}
 <hr>
 <img src="https://fundacionsanvicentepallotti.github.io/assets/img/logos--patrocinantes.png" alt="baner FSVP"><br><br>
-<div class="grid text-center" style="--bs-columns: 3;">
-  <div>Auto-column</div>
-  <div>Auto-column</div>
-  <div>Auto-column</div>
-</div>
+<!--lista baner-->
+<div class="container text-center">
+  <div class="row align-items-start">
+    <div class="col">
+      <!--One of three columns-->
+
+          <div class="card" style="width: 18rem;">
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">An item</li>
+              <li class="list-group-item">A second item</li>
+              <li class="list-group-item">A third item</li>
+            </ul>
+          </div>
+
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+  </div>
+</div><br><br>
