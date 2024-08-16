@@ -58,6 +58,7 @@ social-network-links:
   facebook: deanattali
   twitter: daattali
   youtube: "@eduardodiaznapierala4809"
+#  instagram: deanat78
 #  github: daattali
 #  patreon: DeanAttali
 #  whatsapp: 15551212
@@ -100,6 +101,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: false
+  instagram: true
   vk: false
 
 # Cómo mostrar el enlace a su sitio web en el pie de página
