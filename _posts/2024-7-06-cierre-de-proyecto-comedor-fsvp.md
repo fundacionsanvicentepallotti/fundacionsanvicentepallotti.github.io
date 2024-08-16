@@ -2,7 +2,7 @@
 layout: post
 title: 1er Cierre de Proyecto Comedor San Vicente Pallotti 2024
 subtitle: Damos gracias a Dios por la exitosa culminación del proyecto del Comedor de este 1er semestre del año.
-cover-img: /assets/img/bg-azule.jpg
+cover-img: /assets/img/bg-amarillo.jpg
 thumbnail-img: /assets/img/cierre-01.jpg
 share-img: /assets/img/cierre-01.jpg
 tags: # [comedor, nutrición]
