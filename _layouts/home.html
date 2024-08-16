@@ -2,11 +2,19 @@
 layout: page
 ---
 <img src="https://fundacionsanvicentepallotti.github.io/assets/img/baner-entrada-04.jpg" alt="baner FSVP"><br><br>
-<div class="grid text-center" style="--bs-columns: 3;">
-  <div>Auto-column</div>
-  <div>Auto-column</div>
-  <div>Auto-column</div>
-</div>
+<div class="container text-center">
+  <div class="row align-items-start">
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+  </div>
+</div><br><br>
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
