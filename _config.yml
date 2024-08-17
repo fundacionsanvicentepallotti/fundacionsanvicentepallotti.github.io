@@ -107,7 +107,7 @@ share-links-active:
 
 # Cómo mostrar el enlace a su sitio web en el pie de página
 # Elimina esto si no quieres un enlace en el pie de página
-url-pretty: "MyWebsite.com"
+url-pretty: "https://fundacionsanvicentepallotti.github.io/"
 
 # Agregue el título del sitio web al título de cada página.
 title-on-all-pages: false
@@ -125,7 +125,7 @@ feed_show_tags: true
 post_search: true
 
 # Agregue un botón en el pie de página para editar la página actual. Solo funciona si tu sitio web está alojado en GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Permitir que los elementos del submenú (elementos del menú de navegación de segundo nivel) sean más largos que el menú de nivel superior
 # Si esta configuración está desactivada, es posible que se corten las palabras largas del submenú.
