@@ -3,51 +3,20 @@ layout: page
 title: Donaciones
 ---
 
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card h-100">
-      <img src="/assets/img/Rectangle-18.svg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h3 class="card-title">Datos Bancarios</h3>
-            <ul>
-            <li>Fundación San Vicente Pallotti</li>
-            <li>RIF: J-50180608-0</li>
-            <li>Cta. corriente</li>
-            <li>Bancamiga</li>
-            </ul>
-            <h3>N° 0172-0194-86-1945023032</h3>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card h-100">
-      <img src="/assets/img/Rectangle-20.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h3 class="card-title">Pago Movil</h3>
-            <ul>
-            <li>RIF: J-50180608-0</li>
-            <li>0412-7040102</li>
-            <li>0172 (Bancamiga)</li>
-            </ul>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-
-
-
-
-
 <div class="row">
   <div class="col-sm-6 mb-3 mb-sm-0">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Datos Bancarios</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        
+        <ul class="list-unstyled">
+            <li>Fundación San Vicente Pallotti</li>
+            <li>RIF: J-50180608-0</li>
+            <li>Cta. corriente</li>
+            <li>Bancamiga</li>
+            <li><h3>N° 0172-0194-86-1945023032</h3></li>
+        </ul>
+
       </div>
     </div>
   </div>
@@ -55,15 +24,17 @@ title: Donaciones
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Pago Movil</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        
+        <ul class="list-unstyled">
+            <li>RIF: J-50180608-0</li>
+            <li>0412-7040102</li>
+            <li>0172 (Bancamiga)</li>
+        </ul>
+
       </div>
     </div>
   </div>
 </div>
-
-
-
 
 
 <!-- ideonapi -->
