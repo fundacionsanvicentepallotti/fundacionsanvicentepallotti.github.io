@@ -3,6 +3,43 @@ layout: page
 title: Donaciones
 ---
 
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100">
+      <img src="../assets/img/Rectangle-18.svg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+          <h3>Datos Bancarios</h3>
+            <ul class="alt">
+            <li>Fundación San Vicente Pallotti</li>
+            <li>RIF: J-50180608-0</li>
+            <li>Cta. corriente</li>
+            <li>Bancamiga</li>
+            </ul>
+            <h3>N° 0172-0194-86-1945023032</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100">
+      <img src="../assets/img/Rectangle-20.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col">
+    <div class="card h-100">
+      <img src="../assets/img/Rectangle-18.svg" class="card-img-top" alt="...">
+
+    </div>
+  </div>
+</div>
+
+<!-- ideonapi -->
 <!-------------dos------------->
 <div class="6u$ 12u$(small)">
   <h3>Datos Bancarios</h3>
