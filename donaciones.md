@@ -45,13 +45,25 @@ title: Donaciones
 <div class="container text-center">
   <div class="row">
     <div class="col">
-      1 of 2
+            <ul class="alt">
+            <li>Fundación San Vicente Pallotti</li>
+            <li>RIF: J-50180608-0</li>
+            <li>Cta. corriente</li>
+            <li>Bancamiga</li>
+            </ul>
+            <h3>N° 0172-0194-86-1945023032</h3>
     </div>
     <div class="col">
-      2 of 2
+            <ul class="alt">
+            <li>Fundación San Vicente Pallotti</li>
+            <li>RIF: J-50180608-0</li>
+            <li>Cta. corriente</li>
+            <li>Bancamiga</li>
+            </ul>
+            <h3>N° 0172-0194-86-1945023032</h3>
     </div>
   </div>
-
+ </div>
 
 
 
