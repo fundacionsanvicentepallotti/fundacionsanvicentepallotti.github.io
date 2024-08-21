@@ -34,11 +34,11 @@ title: Donaciones
       </div>
     </div>
   </div>
-</div>
+</div><br><br>
 
 
 
-
+### Dirección
 <ul class="list-inline">
   <li class="list-inline-item">Av. Las Aves con Av. Los Roques, Casa Iglesia Asunción de María, Urb Las Islas (Villa Panamericana). Guarenas, Edo. Miranda.</li>
   <li class="list-inline-item"><h4>Telf: +58 412 905 98 17</h4></li>
@@ -49,13 +49,11 @@ title: Donaciones
 <!-- ideonapi -->
 <!-------------dos------------->
 <!--<div class="6u$ 12u$(small)"></div>-->
-<hr class="major">
-<!-- Break -->
+
+
 
 <div class="row">
 <!-------------uno------------->
 <div class="6u 12u$(small)">
-    <h3>Dirección</h3>
-<p>Av. Las Aves con Av. Los Roques, Casa Iglesia Asunción de María, Urb Las Islas (Villa Panamericana). Guarenas, Edo. Miranda.</p>
-    <h4>Telf: +58 412 905 98 17</h4>
+
 </div>
