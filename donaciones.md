@@ -9,7 +9,7 @@ title: Donaciones
       <img src="/assets/img/Rectangle-18.svg" class="card-img-top" alt="...">
       <div class="card-body">
         <h3 class="card-title">Datos Bancarios</h3>
-            <ul class="alt">
+            <ul>
             <li>Fundación San Vicente Pallotti</li>
             <li>RIF: J-50180608-0</li>
             <li>Cta. corriente</li>
@@ -25,8 +25,7 @@ title: Donaciones
       <img src="/assets/img/Rectangle-20.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h3 class="card-title">Pago Movil</h3>
-        
-            <ul class="alt">
+            <ul>
             <li>RIF: J-50180608-0</li>
             <li>0412-7040102</li>
             <li>0172 (Bancamiga)</li>
@@ -42,28 +41,26 @@ title: Donaciones
 
 
 
-<div class="container text-center">
-  <div class="row">
-    <div class="col">
-            <ul class="alt">
-            <li>Fundación San Vicente Pallotti</li>
-            <li>RIF: J-50180608-0</li>
-            <li>Cta. corriente</li>
-            <li>Bancamiga</li>
-            </ul>
-            <h3>N° 0172-0194-86-1945023032</h3>
-    </div>
-    <div class="col">
-            <ul class="alt">
-            <li>Fundación San Vicente Pallotti</li>
-            <li>RIF: J-50180608-0</li>
-            <li>Cta. corriente</li>
-            <li>Bancamiga</li>
-            </ul>
-            <h3>N° 0172-0194-86-1945023032</h3>
+<div class="row">
+  <div class="col-sm-6 mb-3 mb-sm-0">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Datos Bancarios</h5>
+        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
     </div>
   </div>
- </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Pago Movil</h5>
+        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
