@@ -7,14 +7,14 @@ title: Donaciones
   <div class="col-sm-6 mb-3 mb-sm-0">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Datos Bancarios</h5>
+        <h4 class="card-title">Datos Bancarios</h4>
         
         <ul class="list-unstyled">
             <li>Fundación San Vicente Pallotti</li>
             <li>RIF: J-50180608-0</li>
             <li>Cta. corriente</li>
             <li>Bancamiga</li>
-            <li><h3>N° 0172-0194-86-1945023032</h3></li>
+            <li><h5>N° 0172-0194-86-1945023032</h5></li>
         </ul>
 
       </div>
@@ -23,7 +23,7 @@ title: Donaciones
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Pago Movil</h5>
+        <h4 class="card-title">Pago Movil</h4>
         
         <ul class="list-unstyled">
             <li>RIF: J-50180608-0</li>
@@ -39,16 +39,7 @@ title: Donaciones
 
 <!-- ideonapi -->
 <!-------------dos------------->
-<div class="6u$ 12u$(small)">
-  <h3>Datos Bancarios</h3>
-      <ul class="alt">
-      <li>Fundación San Vicente Pallotti</li>
-      <li>RIF: J-50180608-0</li>
-      <li>Cta. corriente</li>
-      <li>Bancamiga</li>
-      </ul>
-      <h3>N° 0172-0194-86-1945023032</h3>
-  </div>
+<!--<div class="6u$ 12u$(small)"></div>-->
 <hr class="major">
 <!-- Break -->
 
