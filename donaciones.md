@@ -8,8 +8,7 @@ title: Donaciones
     <div class="card h-100">
       <img src="/assets/img/Rectangle-18.svg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-          <h3>Datos Bancarios</h3>
+        <h3 class="card-title">Datos Bancarios</h3>
             <ul class="alt">
             <li>Fundación San Vicente Pallotti</li>
             <li>RIF: J-50180608-0</li>
@@ -23,10 +22,15 @@ title: Donaciones
 
   <div class="col">
     <div class="card h-100">
-      <img src="../assets/img/Rectangle-20.jpg" class="card-img-top" alt="...">
+      <img src="/assets/img/Rectangle-20.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+        <h3 class="card-title">Pago Movil</h3>
+        
+            <ul class="alt">
+            <li>RIF: J-50180608-0</li>
+            <li>0412-7040102</li>
+            <li>0172 (Bancamiga)</li>
+            </ul>
       </div>
     </div>
   </div>
