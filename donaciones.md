@@ -50,7 +50,7 @@ title: Donaciones
 <!-------------dos------------->
 <!--<div class="6u$ 12u$(small)"></div>-->
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15693.508853341085!2d-66.5897766!3d10.4709004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2babf36106c84d%3A0x7f721c3d97c70d8d!2sFundaci%C3%B3n%20San%20Vicente%20Pallotti!5e0!3m2!1sen!2sve!4v1724118110834!5m2!1sen!2sve" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15693.508853341085!2d-66.5897766!3d10.4709004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2babf36106c84d%3A0x7f721c3d97c70d8d!2sFundaci%C3%B3n%20San%20Vicente%20Pallotti!5e0!3m2!1sen!2sve!4v1724118110834!5m2!1sen!2sve" width="650" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <div class="row">
 <!-------------uno------------->
