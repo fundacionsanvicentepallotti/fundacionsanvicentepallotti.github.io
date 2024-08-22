@@ -34,9 +34,7 @@ title: Donaciones
       </div>
     </div>
   </div>
-</div><br><br>
-
-<hr class="major">
+</div>
 
 <div class="card">
   <h5 class="card-header">Dirección</h5>
@@ -48,17 +46,6 @@ title: Donaciones
 
   </div>
 </div>
-
-
-
-
-
-### Dirección
-<ul class="list-inline">
-  <li class="list-inline-item">Av. Las Aves con Av. Los Roques, Casa Iglesia Asunción de María, Urb Las Islas (Villa Panamericana). Guarenas, Edo. Miranda.</li>
-  <li class="list-inline-item"><h4>Telf: +58 412 905 98 17</h4></li>
-</ul>
-<hr class="major">
 
 
 <!-- ideonapi -->
