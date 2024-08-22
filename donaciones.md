@@ -2,7 +2,7 @@
 layout: page
 title: Donaciones
 ---
-![parroquia](https://fundacionsanvicentepallotti.github.io/assets/img/parroquia-asuncion-de-maria.jpg)<br>
+![parroquia](https://fundacionsanvicentepallotti.github.io/assets/img/para-contacto.webp)<br>
 <div class="row">
   <div class="col-sm-6 mb-3 mb-sm-0">
     <div class="card">
@@ -14,7 +14,7 @@ title: Donaciones
             <li>RIF: J-50180608-0</li>
             <li>Cta. corriente</li>
             <li>Bancamiga</li>
-            <li><h6>N° 0172-0194-86-1945023032</h6></li>
+            <li>N° 0172-0194-86-1945023032</li>
         </ul>
 
       </div>
