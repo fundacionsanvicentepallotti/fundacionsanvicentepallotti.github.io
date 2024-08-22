@@ -2,7 +2,9 @@
 layout: page
 title: Donaciones
 ---
-![parroquia](https://fundacionsanvicentepallotti.github.io/assets/img/para-contacto.webp)<br>
+<div class="ratio ratio-16x9">
+![parroquia](https://fundacionsanvicentepallotti.github.io/assets/img/para-contacto.webp)
+</div>
 <div class="row">
   <div class="col-sm-6 mb-3 mb-sm-0">
     <div class="card">
