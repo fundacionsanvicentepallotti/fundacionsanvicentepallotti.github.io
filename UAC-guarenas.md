@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UAC. Guarenas
-subtitle: Why you'd want to go on a date with me
+subtitle: Hablar sobre el carisma palotino
 ---
 ## Carisma Palotino
 
