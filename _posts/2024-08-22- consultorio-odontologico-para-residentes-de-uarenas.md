@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Consultorio odontológico para los residentes de Guarenas
+subtitle: Como parte de las actividades del programa “Ayuda Polaca”, la Embajada de la República de Polonia en Caracas, junto con la Fundación San Vicente Pallotti, inauguraron un consultorio odontológico para los residentes de Guarenas, estado Miranda, Venezuela.
 thumbnail-img: /assets/img/inauguran-odontologico-001.jpg
 tags: [Fundación]
 ---
